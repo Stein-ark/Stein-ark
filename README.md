@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jonathan Abogye 👋</h1>
+<h1 align="center">Hi, I'm Jonathan Abogye </h1>
 
 <p align="center">
   <em>Computer Engineer &nbsp;·&nbsp; MERN-Stack Developer &nbsp;·&nbsp; Control Engineer &nbsp;·&nbsp; Software Engineer</em>
