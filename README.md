@@ -2,7 +2,7 @@
 
 Full-stack engineer who ships complete products, from database to interface, across web and mobile. Computer Engineering graduate from Ahmadu Bello University, with hands-on work in control systems and drone simulation. I care about software that is fast, secure and genuinely useful to the people using it.
 
-<img src="https://skillicons.dev/icons?i=vercel" width="14" /> [Portfolio](https://portfolio-tau-azure-99.vercel.app/) &nbsp;·&nbsp; <img src="https://skillicons.dev/icons?i=linkedin" width="14" /> [LinkedIn](https://www.linkedin.com/in/jonathanabogye/) &nbsp;·&nbsp; <img src="https://skillicons.dev/icons?i=gmail" width="14" /> [Email](mailto:abogyejonathan@gmail.com)
+<img src="https://skillicons.dev/icons?i=vercel" width="14" /> [Portfolio](https://jonathanabogye.vercel.app/) &nbsp;·&nbsp; <img src="https://skillicons.dev/icons?i=linkedin" width="14" /> [LinkedIn](https://www.linkedin.com/in/jonathanabogye/) &nbsp;·&nbsp; <img src="https://skillicons.dev/icons?i=gmail" width="14" /> [Email](mailto:abogyejonathan@gmail.com)
 
 <br />
 
